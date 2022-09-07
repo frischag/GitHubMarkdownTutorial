@@ -15,9 +15,9 @@ And here is an ordered list:
 3. or whatever else. 
 
 ## Tasks
-A **bold** example.
-Emphasizing *very* important things.
-For removing ~~stupid~~ mistakes.
+A **bold** example.   
+Emphasizing *very* important things.   
+For removing ~~stupid~~ mistakes.   
 Block quotes:
 > "There are three types of people. People who can count, and people who can't."
 
