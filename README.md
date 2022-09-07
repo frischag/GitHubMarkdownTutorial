@@ -16,15 +16,15 @@ And here is an ordered list:
 
 ## Tasks
 A **bold** example.   
-Emphasizing *very* important things.   
-For removing ~~stupid~~ mistakes.   
+Italics for emphasizing *very* important things.      
+Strikethrough for removing ~~stupid~~ common mistakes.      
 Block quotes:
 > "There are three types of people. People who can count, and people who can't."
 
-Web links:
-[WNCC's Web Site](https://www.wncc.edu)
+Web links:  
+[WNCC's Web Site](https://www.wncc.edu)  
 
-https://www.billthecomputerguy.com
+https://www.billthecomputerguy.com  
 
 ### Making tables
 <!-- tables -->
